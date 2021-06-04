@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.a,.b {
+    width: 50px;
+}
+.hide {
+    display: none!important;
+}
+
